@@ -75,3 +75,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Taffy_Pilot/Saved/
+Taffy_Pilot/Intermediate/
+Taffy_Pilot/Binaries/
